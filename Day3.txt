@@ -1,0 +1,15 @@
+Data Type
+int (0,1,2,100,-1000,-2128)
+float (3.14,2.12131241232)
+string ('Hi',"String format")
+bool (True,False) (1,0)
+
+Sequence Data Type(အစဉ်လိုက်ဖြစ်တဲ့ data)
+List []
+tuple ()
+set {}
+Dict {}
+
+operand = အပေါင်းလက္ခဏာရဲ့ ဘယ်ဖက် ညာဖက်မှာရှိတဲ့ dataတွေကိုခေါ်တာ
+\t = tab
+\n = newline တလိုင်းဆင်း
