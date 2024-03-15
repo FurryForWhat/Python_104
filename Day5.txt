@@ -1,0 +1,4 @@
+function = လုပ်ဆောင်ချက်တခုကို လုပ်ဆောင်တာ
+paranthesis = လက်သည်းကွင်း
+parameter = paranthesisထဲမှာရှိတာ
+method = function but not can't use all the time
