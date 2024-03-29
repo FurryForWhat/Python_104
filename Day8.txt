@@ -1,0 +1,8 @@
+Operator 
+-Arithmetic Operator ( + , - , *, /,//,%)
+-Assignment operators  (?)
+-Comparison operators   (?)
+-Logical operators      (?)
+-Identity operators     (?)
+-Membership operators   (?)
+-Bitwise operators      (?)
