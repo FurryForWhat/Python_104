@@ -1,0 +1,8 @@
+normal data types (int, float, str, bool, complex)
+sequence data types(list, tuple, set, dict)
+operators ()
+
+operand = opeator ရဲ့ ဘယ်ဖက် ညာဖက်မှာရှိတဲ့ ဒေတာ
+
+b = 9 , (b = variable , 9 = data , = (assign))
+hero = 19 
